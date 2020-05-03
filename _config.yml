@@ -1,0 +1,23 @@
+# Site settings & data
+title: Darshan Jogad
+author: Darshan Jogad
+description: Personal blog and resume
+url: https://myurl.com/
+avatar: eniac-woman.jpg
+resume: "/static/sample-resume.pdf"
+email: darshanmjogad
+github: dmjogad
+twitter: darshanjogad
+linkedin: username
+instagram: 1234567/username
+google_analytics: UA-12345678-1
+feed:
+  subtitle: I wrote the book on electronic digital computing.
+  filename: feed.xml
+  path: "/feed/feed.xml"
+  url: https://myurl.com/feed/feed.xml
+  id: https://myurl.com/
+
+
+# Build settings
+markdown: kramdown
